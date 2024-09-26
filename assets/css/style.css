@@ -11,6 +11,14 @@
     background-color: #ffffff;
 }
 
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+.bg-color-groups {
+    background-color: #ffffff;
+}
+
 .bg-color-personal-info {
     background-color: #f4f4f4;
 }
@@ -381,3 +389,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+div#map {min-height: 360px;}
